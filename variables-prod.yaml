@@ -1,0 +1,5 @@
+login_user: root
+login_host: db-prod.chowdary.cloud
+login_password: ExpenseApp1
+DB_HOST: db-prod.chowdary.cloud
+BACKEND_API_URL: backend.app-prod.chowdary.cloud
